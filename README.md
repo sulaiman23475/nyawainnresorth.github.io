@@ -1,0 +1,1 @@
+# nyawainnresort.github.io
