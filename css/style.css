@@ -2555,31 +2555,3 @@ background-color: #161616;
 	}
 }
 
-.service-item {
-    text-align: center;
-    margin: 20px;
-}
-
-/* Styles for screens with a maximum width of 576px (e.g., mobile devices) */
-@media (max-width: 576px) {
-    .card {
-        width: 90%;
-        margin: 0 auto;
-    }
-}
-
-/* Styles for screens with a maximum width of 768px (e.g., tablets) */
-@media (max-width: 768px) {
-    .card {
-        width: 45%;
-        margin: 2%;
-    }
-}
-
-/* Styles for screens with a maximum width of 992px (e.g., larger tablets and small desktops) */
-@media (max-width: 992px) {
-    .card {
-        width: 30%;
-        margin: 2%;
-    }
-}
